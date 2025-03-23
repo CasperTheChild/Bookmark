@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Bookmark](https://github.com/CasperTheChild/Bookmark)
+- Live Site URL: [Live Site](https://casperthechild.github.io/Bookmark/)
 
 ## My process
 
@@ -50,4 +50,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CasperTheChild)
+- Frontend Mentor - [@CasperTheChild](https://www.frontendmentor.io/profile/CasperTheChild)
